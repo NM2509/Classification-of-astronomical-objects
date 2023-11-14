@@ -1,5 +1,5 @@
 # Classification-of-astronomical-objects
-This code relates to a task of classifying astronomical objects using imaging and spectral data. The purpose is to classify an object into one of: Star, Quasar or Galaxy. The work includes Exploratory Data Analysis (statistics, visualisations), Feature Transformations (PCA, LDA), Model Selection (KNN, MLP, Decision Tree, Random Forest), Performance Analysis, Interpretation, and an estimate of Generalisation Error. 
+This code relates to a task of classifying astronomical objects using imaging and spectral data. The purpose is to classify an object into one of: Star, Quasar or Galaxy. The work includes Exploratory Data Analysis (statistics, visualisations), Feature Transformations (PCA, LDA), Model Selection, Performance Analysis, Interpretation, and an estimate of Generalisation Error. 
 
 ### Dependencies: 
 To run the code from this repository, please ensure you have the following Python libraries installed:
