@@ -4,24 +4,24 @@ This code relates to a task of classifying astronomical objects using imaging an
 ### Dependencies: 
 To run the code from this repository, please ensure you have the following Python libraries installed:
 
-# Core libraries
+#### Core libraries
 - numpy 
 - pandas 
 - math
 - random
 
-# Visualisation
+#### Visualisation
 - matplotlib
 - seaborn
 - plotly
 
-# Iterators
+#### Iterators
 - itertools
 
-# Warnings
+#### Warnings
 - warnings
 
-# Machine Learning
+#### Machine Learning
 - sklearn 
 
 **Note**: In the code, libraries are often imported with common abbreviations, e.g. `import numpy as np`.
