@@ -6,6 +6,5 @@ For dependencies, see requirements.txt file
 
 ## How to Run
 
-- Click on the link on top of the Jupiter file in order to open the notebook in Google Colab, or alternatively clone the repository to your local machine
+- Click on the link on top of the main.ipynb file in order to open the notebook in Google Colab
 - Ensure you've installed all required dependencies
-- Run main.py file for analysis and to see the final model and its performance
